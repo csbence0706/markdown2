@@ -1,0 +1,201 @@
+  Start Bootstrap - SB Admin Version 2.0 Demo      
+
+Toggle navigation [SB Admin v2.0](index.html)
+
+*   [](#)
+    *   [
+        
+        **John Smith** _Yesterday_
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...
+        
+        ](#)
+    
+    *   [
+        
+        **John Smith** _Yesterday_
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...
+        
+        ](#)
+    
+    *   [
+        
+        **John Smith** _Yesterday_
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...
+        
+        ](#)
+    
+    *   [**Read All Messages**](#)
+*   [](#)
+    *   [
+        
+        **Task 1** 40% Complete
+        
+        40% Complete (success)
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [
+        
+        **Task 2** 20% Complete
+        
+        20% Complete
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [
+        
+        **Task 3** 60% Complete
+        
+        60% Complete (warning)
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [
+        
+        **Task 4** 80% Complete
+        
+        80% Complete (danger)
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [**See All Tasks**](#)
+*   [](#)
+    *   [
+        
+        New Comment 4 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        3 New Followers 12 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        Message Sent 4 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        New Task 4 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        Server Rebooted 4 minutes ago
+        
+        ](#)
+    
+    *   [**See All Alerts**](#)
+*   [](#)
+    *   [User Profile](#)
+    *   [Settings](#)
+    
+    *   [Logout](login.html)
+
+*   
+*   [Dashboard](index.html)
+*   [Charts](#)
+    *   [Flot Charts](flot.html)
+    *   [Morris.js Charts](morris.html)
+*   [Tables](tables.html)
+*   [Forms](forms.html)
+*   [UI Elements](#)
+    *   [Panels and Wells](panels-wells.html)
+    *   [Buttons](buttons.html)
+    *   [Notifications](notifications.html)
+    *   [Typography](typography.html)
+    *   [Grid](grid.html)
+*   [Multi-Level Dropdown](#)
+    *   [Second Level Item](#)
+    *   [Second Level Item](#)
+    *   [Third Level](#)
+        *   [Third Level Item](#)
+        *   [Third Level Item](#)
+        *   [Third Level Item](#)
+        *   [Third Level Item](#)
+*   [Sample Pages](#)
+    *   [Blank Page](blank.html)
+    *   [Login Page](login.html)
+
+Buttons
+=======
+
+Default Buttons
+
+#### Normal Buttons
+
+Default Primary Success Info Warning Danger Link
+
+  
+
+#### Disabled Buttons
+
+Default Primary Success Info Warning Danger Link
+
+  
+
+#### Button Sizes
+
+Large button Default button Small button Mini button  
+  
+Block level button
+
+Circle Icon Buttons with Font Awesome Icons
+
+#### Normal Circle Buttons
+
+  
+  
+
+#### Large Circle Buttons
+
+  
+  
+
+#### Extra Large Circle Buttons
+
+Outline Buttons with Smooth Transition
+
+#### Outline Buttons
+
+Default Primary Success Info Warning Danger Link
+
+  
+
+#### Outline Button Sizes
+
+Large button Default button Small button Mini button  
+  
+Block level button
+
+Social Buttons with Font Awesome Icons
+
+#### Social Buttons
+
+Sign in with Bitbucket Sign in with Dropbox Sign in with Facebook Sign in with Flickr Sign in with GitHub Sign in with Google Sign in with Instagram Sign in with LinkedIn Sign in with Pinterest Sign in with Tumblr Sign in with Twitter Sign in with VK
+
+* * *

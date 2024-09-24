@@ -1,0 +1,159 @@
+  Start Bootstrap - SB Admin Version 2.0 Demo      
+
+Toggle navigation [SB Admin v2.0](index.html)
+
+*   [](#)
+    *   [
+        
+        **John Smith** _Yesterday_
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...
+        
+        ](#)
+    
+    *   [
+        
+        **John Smith** _Yesterday_
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...
+        
+        ](#)
+    
+    *   [
+        
+        **John Smith** _Yesterday_
+        
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend...
+        
+        ](#)
+    
+    *   [**Read All Messages**](#)
+*   [](#)
+    *   [
+        
+        **Task 1** 40% Complete
+        
+        40% Complete (success)
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [
+        
+        **Task 2** 20% Complete
+        
+        20% Complete
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [
+        
+        **Task 3** 60% Complete
+        
+        60% Complete (warning)
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [
+        
+        **Task 4** 80% Complete
+        
+        80% Complete (danger)
+        
+        
+        
+        
+        
+        ](#)
+    
+    *   [**See All Tasks**](#)
+*   [](#)
+    *   [
+        
+        New Comment 4 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        3 New Followers 12 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        Message Sent 4 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        New Task 4 minutes ago
+        
+        ](#)
+    
+    *   [
+        
+        Server Rebooted 4 minutes ago
+        
+        ](#)
+    
+    *   [**See All Alerts**](#)
+*   [](#)
+    *   [User Profile](#)
+    *   [Settings](#)
+    
+    *   [Logout](login.html)
+
+*   
+*   [Dashboard](index.html)
+*   [Charts](#)
+    *   [Flot Charts](flot.html)
+    *   [Morris.js Charts](morris.html)
+*   [Tables](tables.html)
+*   [Forms](forms.html)
+*   [UI Elements](#)
+    *   [Panels and Wells](panels-wells.html)
+    *   [Buttons](buttons.html)
+    *   [Notifications](notifications.html)
+    *   [Typography](typography.html)
+    *   [Grid](grid.html)
+*   [Multi-Level Dropdown](#)
+    *   [Second Level Item](#)
+    *   [Second Level Item](#)
+    *   [Third Level](#)
+        *   [Third Level Item](#)
+        *   [Third Level Item](#)
+        *   [Third Level Item](#)
+        *   [Third Level Item](#)
+*   [Sample Pages](#)
+    *   [Blank Page](blank.html)
+    *   [Login Page](login.html)
+
+Morris.js Charts
+================
+
+Area Chart Example
+
+Bar Chart Example
+
+Line Chart Example
+
+Donut Chart Example
+
+Morris.js Usage
+
+Morris.js is a jQuery based charting plugin created by Olly Smith. In SB Admin, we are using the most recent version of Morris.js which includes the resize function, which makes the charts fully responsive. The documentation for Morris.js is available on their website, [http://www.oesmith.co.uk/morris.js/](http://www.oesmith.co.uk/morris.js/).
+
+[View Morris.js Documentation](http://www.oesmith.co.uk/morris.js/)
